@@ -14,6 +14,8 @@ public class Main {
         firstNumber = (int) (firstNumber * 1000);
         secondNumber = (int) (secondNumber * 1000);
 
+
+        
         if (firstNumber == secondNumber){
             return true;
         } else {
