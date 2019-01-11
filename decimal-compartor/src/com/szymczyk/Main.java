@@ -15,7 +15,7 @@ public class Main {
         secondNumber = (int) (secondNumber * 1000);
 
 
-        
+
         if (firstNumber == secondNumber){
             return true;
         } else {
