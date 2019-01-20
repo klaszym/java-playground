@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d9a3cd2-7c9b-4fcd-b498-50a81ac391ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/szymczyk/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/szymczyk/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../constructors/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../constructors/src/com/szymczyk/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../constructors/src/com/szymczyk/VipCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../first-class/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-first-step/src/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minimum-maximum-challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../minimum-maximum-challenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/szymczyk/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/szymczyk/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/szymczyk/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/szymczyk/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/szymczyk/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/szymczyk/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,6 +18,7 @@
     <session id="572701697">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -39,12 +35,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="505" />
+          <entry key="java" value="691" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="505" />
+          <entry key="JAVA" value="691" />
         </counts>
       </usages-collector>
     </session>
@@ -54,8 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/szymczyk/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="150">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -63,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/szymczyk/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="318">
+              <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
               <folding>
                 <element signature="e#410#411#0" expanded="true" />
                 <element signature="e#437#438#0" expanded="true" />
@@ -78,6 +74,8 @@
                 <element signature="e#663#664#0" expanded="true" />
                 <element signature="e#762#763#0" expanded="true" />
                 <element signature="e#798#799#0" expanded="true" />
+                <element signature="e#761#762#0" expanded="true" />
+                <element signature="e#797#798#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -86,8 +84,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/szymczyk/Dog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+            <state relative-caret-position="527">
+              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
               <folding>
                 <element signature="e#351#352#0" expanded="true" />
                 <element signature="e#397#398#0" expanded="true" />
@@ -111,8 +109,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/szymczyk/Main.java" />
         <option value="$PROJECT_DIR$/src/com/szymczyk/Animal.java" />
+        <option value="$PROJECT_DIR$/src/com/szymczyk/Main.java" />
         <option value="$PROJECT_DIR$/src/com/szymczyk/Dog.java" />
       </list>
     </option>
@@ -157,7 +155,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547798104329" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547833181266" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -203,7 +201,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="802" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -215,10 +212,10 @@
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32957748" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32957748" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32957748" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -237,10 +234,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/szymczyk/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/szymczyk/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="318">
+          <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
           <folding>
             <element signature="e#410#411#0" expanded="true" />
             <element signature="e#437#438#0" expanded="true" />
@@ -254,21 +258,16 @@
             <element signature="e#663#664#0" expanded="true" />
             <element signature="e#762#763#0" expanded="true" />
             <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/szymczyk/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/szymczyk/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        <state relative-caret-position="527">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
           <folding>
             <element signature="e#351#352#0" expanded="true" />
             <element signature="e#397#398#0" expanded="true" />

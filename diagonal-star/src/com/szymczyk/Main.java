@@ -3,7 +3,7 @@ package com.szymczyk;
 public class Main {
 
     public static void main(String[] args) {
-	printSquareStar(5);
+	printSquareStar(10);
     }
     public static void  printSquareStar(int n){
 
